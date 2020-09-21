@@ -1,5 +1,7 @@
 # How to integrate your first HTML5 game into CelerX
 
+This is a simple demo for integrating with CelerX JS SDK with a solo HTML5 game Go!Celer!
+
 ## Preparation
 
 ### Step 1: Install NodeJS LTS
@@ -8,7 +10,7 @@
 
 ### Step 2: Clone the example game repo
 
-<https://github.com/CelerX/js-sdk-demo>
+<https://github.com/CelerX/js-sdk-solo-game-demo>
 
 ### Step 3: Install dependencies
 
@@ -28,7 +30,7 @@ Install a random number seed library
 
 ### Step 5: Download CelerX JS SDK
 
-<https://github.com/CelerX/javascript-sdk>
+<https://github.com/CelerX/js-sdk>
 
 Copy minified SDK code and create a file `celerx.js` in `lib` folder
 

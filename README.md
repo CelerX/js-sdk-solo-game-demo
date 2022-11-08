@@ -88,8 +88,6 @@ Step 9: Download CelerX App from App Store/Google Play
 
 Step 10: Upload the game to CelerX Game Developer Portal
 
-<https://portal.celerx.app>
-
 1. Create a new account
 2. Create a new game
 3. Fill out game information. Make sure you select "Solo Game" for game type
@@ -97,6 +95,3 @@ Step 10: Upload the game to CelerX Game Developer Portal
 5. Drag and drop your game zip file to upload
 6. Click on "Go test it on CelerX"
 7. Open CelerX and scan the QR Code
-
-Video tutorial
-<https://www.youtube.com/watch?v=HBqrF0L0CB0&t=441s>
